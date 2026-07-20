@@ -1,0 +1,3 @@
+wecom-bot-svr==0.3.4
+apscheduler==3.11.3
+pyyaml==6.0.3

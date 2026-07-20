@@ -1,0 +1,11 @@
+# Ignore local/generated documentation artifacts.
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.pptx
+*.tmp
+~$*
+Thumbs.db
+.DS_Store
