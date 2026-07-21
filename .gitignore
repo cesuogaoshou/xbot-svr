@@ -2,6 +2,8 @@ polaris_api.py
 .DS_STORE
 .idea
 .aider*
+AGENTS.md
+docs/MEMORY.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
